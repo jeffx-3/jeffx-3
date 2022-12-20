@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Geoffrey but you can call me Jeff😀
-![](https://visitor-badge.laobi.icu/badge?page_id=Jeffx-ai.Jeffx-ai) [![Github](https://img.shields.io/github/followers/Jeffx-ai?label=Followers&logo=Github)](https://github.com/Jeffx-ai)
+![](https://visitor-badge.laobi.icu/badge?page_id=Jeffx-3.Jeffx-3) [![Github](https://img.shields.io/github/followers/Jeffx-3?label=Followers&logo=Github)](https://github.com/Jeffx-3)
 
 
 
