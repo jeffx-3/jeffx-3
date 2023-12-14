@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm a highschool student at St Joseph's School Rapogi.
+## 🎓 I'm a self taught coder.
 
 - 🔭 I’m currently developing a marketplace.
 - 🌱 I’m currently learning Kotlin
