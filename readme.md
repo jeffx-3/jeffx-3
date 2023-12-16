@@ -6,10 +6,9 @@
 
 ## 🎓 I'm a self taught coder.
 
-- 🔭 I’m currently developing a marketplace.
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently advancing my skills
 - 💬 Ask me about anything
-- ⚡ Fun fact: Am shy in person
+
 
 ## Find me on:
 
