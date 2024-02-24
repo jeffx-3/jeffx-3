@@ -31,9 +31,6 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=jeffx-3&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="Geoffrey's Trophies" />
 </p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx-3&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx-3&hide=php&theme=tokyonight" />
-</a>
 </div>
 
 
