@@ -20,7 +20,9 @@
 
 <br />
 
-## :trophy: My Github Stats:
+###:fire: My Github Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DianaWangui&theme=dark)](https://git.io/streak-stats)
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Jeffx-3&count_private=true&show_icons=true&theme=tokyonight)
