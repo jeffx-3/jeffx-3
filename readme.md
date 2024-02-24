@@ -20,11 +20,7 @@
 
 <br />
 
-## :trophy: My  Stats:
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffx-3 &theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx-3 &layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+##:fire:My Stats
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Jeffx-3&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Jeffx-3&hide=php&theme=tokyonight)
