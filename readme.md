@@ -6,7 +6,7 @@
 
 ## 🎓 I'm a self taught coder.
 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 Experimenting new things daily
 - 💬 Ask me about anything
 
 
