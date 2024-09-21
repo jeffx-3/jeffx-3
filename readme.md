@@ -6,7 +6,7 @@
 
 ## 🎓 I'm a self taught coder.
 
-- 🌱 Experimenting new things daily
+- 🌱 Open to collaboration
 - 💬 Ask me about anything
 
 
