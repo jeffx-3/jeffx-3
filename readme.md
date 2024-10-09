@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Geoffrey,full stack developer in the making
+## Hi there 👋 I'm Geoffrey,a fullstack developer
 ![](https://visitor-badge.laobi.icu/badge?page_id=Jeffx-3.Jeffx-3) [![Github](https://img.shields.io/github/followers/Jeffx-3?label=Followers&logo=Github)](https://github.com/Jeffx-3)
 
 
