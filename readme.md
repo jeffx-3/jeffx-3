@@ -20,8 +20,6 @@
 
 <br />
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeffx-3&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx-3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeffx-3&show_icons=true&locale=en" alt="Geoffrey" /></p>
