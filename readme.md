@@ -22,9 +22,18 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx-3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeffx-3&show_icons=true&locale=en" alt="Geoffrey" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffx-3 &theme=algolia" alt="Geoffrey" /></p>
+<div style="display: inline-flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffx-3&theme=github_dark&hide_border=true&include_all_commits=true" style="width: 420px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffx-3&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 420px;">
+
+</div>
+
+<br>
+
+[![Jeff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffx-3&bg_color=transparent&color=2fa4e7&line=2fa4e7&point=2fa4e7&area=true&hide_border=true)](https://github.com/jeffx-3/github-readme-activity-graph)
+
+<br>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=jeffx-3&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="Geoffrey's Trophies" />
