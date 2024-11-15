@@ -1,10 +1,8 @@
-## Hi there 👋 I'm Geoffrey,a fullstack developer
+## Hi there 👋 I'm Geoffrey,a fullstack software engineer
 [![wakatime](https://wakatime.com/badge/user/018ef7c7-c122-490b-9a4e-71dfd3807683.svg)](https://wakatime.com/@018ef7c7-c122-490b-9a4e-71dfd3807683) ![](https://visitor-badge.laobi.icu/badge?page_id=Jeffx-3.Jeffx-3) [![Github](https://img.shields.io/github/followers/Jeffx-3?label=Followers&logo=Github)](https://github.com/Jeffx-3)
 
 
 
-
-## 🎓 I'm a self taught coder.
 
 - 🌱 Open to collaboration
 - 💬 Ask me about anything
